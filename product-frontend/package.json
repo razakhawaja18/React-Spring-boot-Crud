@@ -80,7 +80,6 @@
     "ip": "1.1.5",
     "jquery": "^3.5.0",
     "lodash": "4.17.11",
-    "minimist": "1.2.0",
     "popper.js": "^1.16.1",
     "prop-types": "15.7.2",
     "react": "16.8.6",
@@ -113,7 +112,7 @@
     "babel-eslint": "10.0.1",
     "babel-loader": "8.0.5",
     "babel-plugin-dynamic-import-node": "2.2.0",
-    "babel-plugin-lodash": "3.3.4",
+
     "babel-plugin-react-intl": "3.0.1",
     "babel-plugin-styled-components": "1.10.0",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
