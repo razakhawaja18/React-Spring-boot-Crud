@@ -79,7 +79,6 @@
     "invariant": "2.2.4",
     "ip": "1.1.5",
     "jquery": "^3.5.0",
-    "lodash": "4.17.11",
     "popper.js": "^1.16.1",
     "prop-types": "15.7.2",
     "react": "16.8.6",
